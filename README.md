@@ -1,7 +1,8 @@
 # confidence
 
-Private repository for confidence project:
+Confidence project:
 
+Paper here: https://cocosci.princeton.edu/papers/jansen_cogsci2020.pdf
 
 problemByProblem.py: particle filter code
 
